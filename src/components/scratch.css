@@ -1,0 +1,5 @@
+.app{
+    border: 1px solid green;
+    justify-content: space-around;
+    flex-direction: row;
+}
