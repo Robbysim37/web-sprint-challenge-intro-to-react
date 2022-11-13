@@ -2,4 +2,15 @@
     border: 1px solid green;
     justify-content: space-around;
     flex-direction: row;
+    background-color: dimgray;
+    width: fit-content;
+    height: fit-content;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 20px;
+    letter-spacing: 1em;
+    color: darkslateblue;
+    justify-content: center;
+    align-items: center;
 }
